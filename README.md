@@ -9,6 +9,6 @@ Name : Tedros Tesfu Gebrezigabheir
 
 steps to run:
 
-1.cd server
-2. npm run dev
+.1.cd server
+.2. npm run dev
 
